@@ -1,5 +1,5 @@
 # Projeto De Site
 
-Matéria = Proejto de Empreendedorismo
+Matéria = Projeto de Empreendedorismo
 
-Obrjetivo: Fazer um site de uma empresa fictícia completo e com formulário
+Objetivo: Fazer um site de uma empresa fictícia completo e com formulário
