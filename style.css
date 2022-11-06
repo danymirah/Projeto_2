@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;900&display=swap');
+
 *{
     background-color: #222222;
     margin: 0;
@@ -7,7 +9,6 @@
     font-size: 15px;
     font-weight: 500;    
 }
-
 
 body {
     font-family: 'Montserrat', sans-serif;
@@ -62,7 +63,6 @@ a {
     margin: 0 14px;
     text-decoration: none;
 }
-
 
 .menu-itens a.active {
     color:#0062d1;
